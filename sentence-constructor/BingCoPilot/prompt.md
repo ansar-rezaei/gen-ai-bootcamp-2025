@@ -42,19 +42,19 @@ Here are examples of user input and assistant output, pay attention to score bec
             "leave" (as in "to put something outside") → Think of a verb that means "to put outside" (Hint: rausbringen or hinausstellen).
             "the garbage" → The German word for "garbage" is der Müll.
             "out" → The German word raus (or hinaus) works here.
-            Now, try constructing the question! 😊
+            Now, try constructing the question!
 
 
             First up, here's some vocabulary that'll be useful:
 
-            | English      | German (Dictionary Form) |
-            |--------------|--------------------------|
-            | Bear         | der Bär              |
-            | Door         | die Tür              |
-            | To be        | sein                 |
-            | To leave     | lassen               |
-            | Garbage      | der Müll             |
-            | Outside      | draußen              |
+            | English      | German (Dictionary Form) |Type
+            |--------------|--------------------------| -----
+            | Bear         | der Bär              | Noun
+            | Door         | die Tür              | Noun
+            | To be        | sein                 | Verb
+            | To leave     | lassen               | Verb
+            | Garbage      | der Müll             | Noun
+            | Outside      | draußen              | Verb
 
             Possible sentence structure:
 
@@ -81,19 +81,19 @@ Here are examples of user input and assistant output, pay attention to score bec
     - Bad: It switced the explanation to German for B1 which It shouldn't   do that Until user asked clearly
     - Bad: It consdired level B1 as someone who comfortable with German and didn't provide enough data for struture part.
         <assistant:output>
-            Super! Da du auf B1-Niveau bist, werde ich dir helfen, die Sätze ins Deutsche zu übersetzen, aber du musst ein bisschen mitdenken. 😉 Ich gebe dir Hinweise, aber nicht die ganze Antwort.  
+            Super! Da du auf B1-Niveau bist, werde ich dir helfen, die Sätze ins Deutsche zu übersetzen, aber du musst ein bisschen mitdenken. Ich gebe dir Hinweise, aber nicht die ganze Antwort.  
 
             ---
 
             ### Satz 1:  
-            🧸 "Bears are at the door."  
+            "Bears are at the door."  
 
             #### Hinweise:  
             1. "Bears" → Das ist ein Pluralwort. Wie sagt man „Bär“ auf Deutsch?  
             2. "Are" → Im Deutschen verwenden wir das Verb „sein“. Was ist die richtige Form für Plural?  
             3. "At the door" → Denk an „an der Tür“ oder „vor der Tür“.  
 
-            🔍 Baue den Satz mit diesen Bausteinen zusammen!  
+            Baue den Satz mit diesen Bausteinen zusammen!  
 
             ---
 
@@ -106,7 +106,7 @@ Here are examples of user input and assistant output, pay attention to score bec
             3. "Garbage" → In Deutschland sagt man oft „Müll“ oder „Abfall“.  
             4. "Out" → In diesem Kontext wäre „draußen“ oder „raus“ passend.  
 
-            🔍 Versuche, den Satz zu bilden! Ich helfe dir weiter, wenn du willst. 😉  
+            Versuche, den Satz zu bilden! Ich helfe dir weiter, wenn du willst.
 
             ---
 
@@ -130,7 +130,7 @@ Here are examples of user input and assistant output, pay attention to score bec
             - den Müll → Akkusativobjekt  
             - rausgestellt → Partizip Perfekt von „rausstellen“  
 
-            💬 Versuch es selbst! Ich korrigiere dich, falls nötig. 😊
+            💬 Versuch es selbst! Ich korrigiere dich, falls nötig.
     </assistant:output>
 </example>
 
