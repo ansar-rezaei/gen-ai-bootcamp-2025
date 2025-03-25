@@ -35,6 +35,7 @@ Inputs and outputs contain expects components of text
 ### Setup State
 User Input:
 - Target English Sentence
+
 Assitant Output:
 - Vocuabulary
 - Sentence Strutuce
@@ -43,6 +44,7 @@ Assitant Output:
 ### Attempt State
 User Input:
 - German Sentence Attempt
+
 Assitant Output:
 - Vocuabulary Table
 - Sentence Strutuce
@@ -51,6 +53,7 @@ Assitant Output:
 ### Clues State
 User Input:
 - Student  Questions
+
 Assitant Output:
 - Clues, Considerations, Next Steps
 
